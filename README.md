@@ -2,10 +2,7 @@
 
 
 # KeikyuInfoOnEPaper
-京急の運行情報をWaveshareの電子ペーパーに表示するスクリプトです
 
-
-## 概要
 [Waveshare](https://www.waveshare.com/)の[2.13inch e-Paper HAT (B)](https://www.waveshare.com/product/modules/oleds-lcds/e-paper/2.13inch-e-paper-hat-b.htm) に、[京急の運行情報](http://unkou.keikyu.co.jp/)を取得し表示するPyhtonスクリプトです。
 
 
