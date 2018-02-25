@@ -12,19 +12,19 @@
 ## 詳細
 
 
-### [KeikyuPython](https://github.com/pokiiio/KeikyuPython)
+### [KeikyuPython](https://github.com/pokiiio/KeikyuPython) （keikyu.py）
 
 以前作成した、[京急の運行情報](http://unkou.keikyu.co.jp/)を取得するPythonスクリプトです。コードはこちらで公開しています。
 
  - https://github.com/pokiiio/KeikyuPython
 
 
-### [M+ FONTS](https://mplus-fonts.osdn.jp/)
+### [M+ FONTS](https://mplus-fonts.osdn.jp/) （mplus-2p-heavy.ttf）
 
 運行情報の文字列を画像化するのに、PythonのPILを使っていますが、フォントは再配布可能で美しいM+ FONTSを使わせていただきました。ありがとうございました。
 
 
-### 画像を電子ペーパーに表示する
+### 画像を電子ペーパーに表示する （epd2in13b.py、epdif.py）
 
 この部分のコードは、[Waveshareのサンプルコード](https://www.waveshare.com/wiki/File:2.13inch-e-paper-hat-b-code.7z)に含まれるライブラリを使っています。
 
