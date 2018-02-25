@@ -23,7 +23,13 @@
 
 ### 画像を電子ペーパーに表示する （epd2in13b.py、epdif.py）
 
-この部分のコードは、[Waveshareのサンプルコード](https://www.waveshare.com/wiki/File:2.13inch-e-paper-hat-b-code.7z)に含まれるライブラリを使っています。
+この部分のコードは、[Waveshareのサンプルコード](https://www.waveshare.com/wiki/File:2.13inch-e-paper-hat-b-code.7z)に含まれるライブラリを使っています。PILで作成した画像を、これらのコードによって電子ペーパー上に表示されます。
+
+## 使い方
+
+```sh
+python show_keikyu_unko.py
+```
 
 
 ## 実際の様子
