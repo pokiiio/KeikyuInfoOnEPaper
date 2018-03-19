@@ -44,5 +44,5 @@ if __name__ == '__main__':
     image_red.paste(ImageOps.invert(text_to_image.text_to_image(
         E_PAPER_WIDTH, HEADER_SIZE, u"京浜急行 運行情報", 16)))
 
-    show_image(image_black.rotate(270, expand=True),
-               image_red.rotate(270, expand=True))
+    show_image(image_black.rotate(90, expand=True),
+               image_red.rotate(90, expand=True))
