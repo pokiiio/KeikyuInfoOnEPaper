@@ -7,8 +7,8 @@ import epd2in13b
 from os import path
 from PIL import Image, ImageOps, ImageFont, ImageDraw
 
-E_PAPER_WIDTH = 212
-E_PAPER_HEIGHT = 104
+E_PAPER_WIDTH = 264
+E_PAPER_HEIGHT = 176
 HEADER_SIZE = 20
 
 
