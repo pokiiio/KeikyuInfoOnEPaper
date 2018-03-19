@@ -3,7 +3,7 @@
 import keikyu
 import text_to_image
 import numpy
-import epd2in13b
+import epd2in7b
 from os import path
 from PIL import Image, ImageOps, ImageFont, ImageDraw
 
